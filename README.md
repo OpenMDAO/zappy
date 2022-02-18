@@ -12,6 +12,7 @@ Disclosure: There are no docs for the software at this point. We're hoping to im
 ## Install Zappy
 
 git clone http://github.com/OpenMDAO/zappy
+
 pip install zappy
 
 ## Zappy Applications
