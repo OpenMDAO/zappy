@@ -1,5 +1,5 @@
 
-# [Zappy][0]
+# Zappy
 
 Zappy is a simple electrical load flow modeling library for AC, DC and hybrid electrical systems based on the equations originally published in [this paper](https://ieeexplore.ieee.org/document/7961244).
 The repository also includes a simple set of electical components for completing node-voltage circuit analyses.
